@@ -1,0 +1,1824 @@
+<Item>
+    <ID>16842754</ID>
+    <Name>小瓶HP药剂</Name>
+    <Price>10</Price>
+    <Desc><![CDATA[让宠物恢复30HP。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>16842755</ID>
+    <Name>大瓶HP药剂</Name>
+    <Price>100</Price>
+    <Desc><![CDATA[让宠物恢复60HP。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>16842756</ID>
+    <Name>特制HP药剂</Name>
+    <Price>200</Price>
+    <Desc><![CDATA[让宠物恢复100HP。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>16842757</ID>
+    <Name>特效HP药剂</Name>
+    <Price>300</Price>
+    <Desc><![CDATA[让宠物恢复150HP。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>16842758</ID>
+    <Name>超强HP药剂</Name>
+    <Price>400</Price>
+    <Desc><![CDATA[让宠物恢复200HP。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>16842759</ID>
+    <Name>超级HP药剂</Name>
+    <Price>500</Price>
+    <Desc><![CDATA[让宠物恢复300HP。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>16842760</ID>
+    <Name>粉色棒棒糖</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[使用后宠物恢复200HP。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1532966400</ExpireTime>
+ </Item>
+<Item>
+    <ID>16842761</ID>
+    <Name>小瓶巫医HP药剂</Name>
+    <Price>60</Price>
+    <Desc><![CDATA[让宠物恢复30点HP。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>16842762</ID>
+    <Name>中瓶巫医HP药剂</Name>
+    <Price>100</Price>
+    <Desc><![CDATA[让宠物恢复60点HP。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>16842763</ID>
+    <Name>大瓶巫医HP药剂</Name>
+    <Price>200</Price>
+    <Desc><![CDATA[让宠物恢复100点HP。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>16842764</ID>
+    <Name>鲤鱼</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[生活在淡水中，听说还有增加精力的作用！]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1698768000</ExpireTime>
+ </Item>
+<Item>
+    <ID>16842765</ID>
+    <Name>黄金HP药剂</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[四周年纪念药剂，恢复满宠物的HP。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>16842766</ID>
+    <Name>锌矿石（废弃）</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[通过挑战宠物园宠物获得！]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1413475200</ExpireTime>
+ </Item>
+<Item>
+    <ID>16842767</ID>
+    <Name>礼物蛋变形魔法</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[砸蛋送大奖中获得，把大家变成礼物蛋，用锤子魔法砸]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1483545600</ExpireTime>
+ </Item>
+<Item>
+    <ID>16842768</ID>
+    <Name>锤子变形魔法</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[砸蛋送大奖中获得，用锤子魔法砸变成礼物蛋的小洛克，会掉落礼物]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1483545600</ExpireTime>
+ </Item>
+<Item>
+    <ID>16842769</ID>
+    <Name>火羽烈焰</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会圣元复苏技能<br>限用宠物（100级）<br>南圣兽雀羽<br>技能描述<br>必中。以烈焰之势削弱敌方魔抗的同时会按照剩余血量追加威力，在&]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1522080000</ExpireTime>
+ </Item>
+<Item>
+    <ID>16842770</ID>
+    <Name>占用编号</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[占用编号]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>1530720000</ExpireTime>
+ </Item>
+<Item>
+    <ID>16842771</ID>
+    <Name>占用编号</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[占用编号]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>1530720000</ExpireTime>
+ </Item>
+<Item>
+    <ID>16842772</ID>
+    <Name>占用编号</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[占用编号]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>1530720000</ExpireTime>
+ </Item>
+<Item>
+    <ID>16842773</ID>
+    <Name>炫彩HP药剂</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[八周年炫彩色纪念药剂，恢复满宠物的HP。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>16842774</ID>
+    <Name>高级HP药剂</Name>
+    <Price>1000</Price>
+    <Desc><![CDATA[让宠物恢复400点HP。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>16842775</ID>
+    <Name>大师HP药剂</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[让宠物恢复500点HP。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>16908290</ID>
+    <Name>小瓶PP泉水</Name>
+    <Price>300</Price>
+    <Desc><![CDATA[为宠物每个技能恢复10个PP。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>16908291</ID>
+    <Name>中瓶PP泉水</Name>
+    <Price>500</Price>
+    <Desc><![CDATA[为宠物每个技能恢复20个PP。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>16908292</ID>
+    <Name>大瓶PP泉水</Name>
+    <Price>1000</Price>
+    <Desc><![CDATA[为宠物每个技能恢复30个PP。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>16908293</ID>
+    <Name>彩虹棒棒糖</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[使用后宠物恢复30PP。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1532966400</ExpireTime>
+ </Item>
+<Item>
+    <ID>16908294</ID>
+    <Name>小瓶巫医PP药剂</Name>
+    <Price>300</Price>
+    <Desc><![CDATA[为宠物每个技能恢复10个PP。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>16908295</ID>
+    <Name>中瓶巫医PP药剂</Name>
+    <Price>500</Price>
+    <Desc><![CDATA[为宠物每个技能恢复20个PP。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>16908296</ID>
+    <Name>大瓶巫医PP药剂</Name>
+    <Price>1000</Price>
+    <Desc><![CDATA[为宠物每个技能恢复30个PP。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>16973826</ID>
+    <Name>治疗烧伤药剂</Name>
+    <Price>100</Price>
+    <Desc><![CDATA[让宠物从烧伤状态中恢复。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>16973827</ID>
+    <Name>解毒药剂</Name>
+    <Price>100</Price>
+    <Desc><![CDATA[让宠物从中毒状态中恢复。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>16973828</ID>
+    <Name>血清药剂</Name>
+    <Price>100</Price>
+    <Desc><![CDATA[让宠物从剧毒状态中恢复。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>16973829</ID>
+    <Name>解混乱药剂</Name>
+    <Price>100</Price>
+    <Desc><![CDATA[让宠物从混乱状态中恢复。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>16973830</ID>
+    <Name>寄生疫苗</Name>
+    <Price>100</Price>
+    <Desc><![CDATA[让宠物从寄生状态中恢复。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>16973831</ID>
+    <Name>解迷惑药剂</Name>
+    <Price>100</Price>
+    <Desc><![CDATA[让宠物从迷惑状态中恢复。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>16973832</ID>
+    <Name>纯净水</Name>
+    <Price>300</Price>
+    <Desc><![CDATA[十分神奇的魔法之水，可以净化一切，让宠物恢复正常。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>16973833</ID>
+    <Name>解麻醉药剂</Name>
+    <Price>100</Price>
+    <Desc><![CDATA[让宠物从麻醉状态中恢复。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17039362</ID>
+    <Name>普通咕噜球</Name>
+    <Price>100</Price>
+    <Desc><![CDATA[也许能捕捉到宠物，效果不稳定。宠物剩余HP越少、处于异常状态越容易捕捉。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17039363</ID>
+    <Name>中级咕噜球</Name>
+    <Price>220</Price>
+    <Desc><![CDATA[有一些捕捉宠物成功的概率。宠物剩余HP越少、处于异常状态越容易捕捉。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17039364</ID>
+    <Name>高级咕噜球</Name>
+    <Price>350</Price>
+    <Desc><![CDATA[相对较高的捕捉成功的概率。宠物剩余HP越少、处于异常状态越容易捕捉。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17039365</ID>
+    <Name>金秋纪念球</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[非常高的捕捉成功的概率。宠物剩余HP越少、处于异常状态越容易捕捉。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17039366</ID>
+    <Name>恶魔咕噜球</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[一种极为稀有的球，即使是恶魔级别的宠物见到它都要发抖。只有勇气和运气并存的小洛克才有可能拥有它]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17039367</ID>
+    <Name>国王球(作废）</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[传说中丢出必定能够捕捉的咕噜球]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1703952000</ExpireTime>
+ </Item>
+<Item>
+    <ID>17039368</ID>
+    <Name>超级咕噜球</Name>
+    <Price>500</Price>
+    <Desc><![CDATA[捕捉率极高的咕噜球]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17039369</ID>
+    <Name>新年球</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[送给大家的新年礼物，捕捉率很高哦！]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17039370</ID>
+    <Name>傻瓜球</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[听院长说，用了之后不会变成傻瓜的，放心用吧。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17039371</ID>
+    <Name>化石咕噜球</Name>
+    <Price>0</Price>
+    <Desc/>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17039372</ID>
+    <Name>巨星球</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[ROCO电视台主持人马特专属球，使用起来有巨星的感觉。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17039373</ID>
+    <Name>潘多基础球</Name>
+    <Price>100</Price>
+    <Desc><![CDATA[也许能捕捉到宠物，但效果不是很稳定。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17039374</ID>
+    <Name>潘多许愿球</Name>
+    <Price>220</Price>
+    <Desc><![CDATA[有一定概率捕捉到宠物。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17039375</ID>
+    <Name>黄金咕噜球</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[四周年纪念咕噜球，收藏价值极佳！]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17039376</ID>
+    <Name>圣光咕噜球</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[精灵弹珠纪念咕噜球，错过了就再也没有了！]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170434</ID>
+    <Name>测试经验药丸</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[测试用道具，增加经验的药丸。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>2010522</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170435</ID>
+    <Name>火龙果</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[增加经验值5000]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170436</ID>
+    <Name>仙人掌果</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[增加经验值10000]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170437</ID>
+    <Name>龙珠果</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[增加经验值50000]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170438</ID>
+    <Name>欧查果</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[增加经验值100000]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170439</ID>
+    <Name>可可果</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[增加经验值1000]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170440</ID>
+    <Name>无花果</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[增加经验值2000]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170441</ID>
+    <Name>海棠果</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[增加经验值3000]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170442</ID>
+    <Name>仙都果</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[增加经验值4000]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170443</ID>
+    <Name>罗汉果</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[增加经验值20000]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170444</ID>
+    <Name>小月饼</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[增加经验值100]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170445</ID>
+    <Name>大月饼</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[增加1000经验值(12月17日过期)]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1292515200</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170446</ID>
+    <Name>布丁糕点</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[宠物使用后增加经验值1000。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170447</ID>
+    <Name>水果沙拉</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[宠物使用后增加经验值3000。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170448</ID>
+    <Name>严父果</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[受到父亲的教育，成长了5000经验。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170449</ID>
+    <Name>南瓜饼</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[宠物使用后增加经验2500。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170450</ID>
+    <Name>醇香月饼</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[宠物使用增加500经验值。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170451</ID>
+    <Name>豆泥月饼</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[宠物使用增加经验值1500。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170452</ID>
+    <Name>维生素月饼</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[宠物使用增加1000经验值。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170453</ID>
+    <Name>精装月饼</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[宠物使用增加经验2500。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170454</ID>
+    <Name>初级美味蛋糕</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[增加宠物经验1000。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1346428800</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170455</ID>
+    <Name>中级奶油蛋糕</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[增加宠物经验2000。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1346428800</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170456</ID>
+    <Name>高级水果蛋糕</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[增加宠物经验3000。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1346428800</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170457</ID>
+    <Name>草莓沙冰</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[增加经验道具1000。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170458</ID>
+    <Name>番茄沙冰</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[增加经验道具2000。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170459</ID>
+    <Name>西瓜沙冰</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[增加经验道具3000。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170461</ID>
+    <Name>洛克巧克力糖</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[使用后增加宠物经验值3000。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1351612800</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170462</ID>
+    <Name>巧克力魔杖糖</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[使用后增加宠物经验1000。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1532966400</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170463</ID>
+    <Name>金色甜橙</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[使用后增加宠物经验值2000。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1351612800</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170464</ID>
+    <Name>呱呱奶糖</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[使用后增加宠物经验值5000。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170465</ID>
+    <Name>2012年纪念月饼</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[使用后增加宠物经验值2000。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1356883200</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170466</ID>
+    <Name>潘多果</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[增加宠物经验值1000。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170467</ID>
+    <Name>超级经验奶糖</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[增加宠物经验8000。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170468</ID>
+    <Name>牛奶</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[宠物经验增加1500。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1369929600</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170469</ID>
+    <Name>巧克力冰淇淋</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[增加宠物经验值1000]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170470</ID>
+    <Name>香草冰淇淋</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[增加宠物经验值2000]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170471</ID>
+    <Name>缤纷果味冰淇淋</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[增加宠物经验值5000]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170472</ID>
+    <Name>南瓜糖</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[增加宠物经验值5000]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170473</ID>
+    <Name>海陆便当</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[可以给宠物增加5000经验]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170474</ID>
+    <Name>肉香便当</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[可以给宠物增加3000经验]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170475</ID>
+    <Name>培根便当</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[可以给宠物增加2000经验]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170476</ID>
+    <Name>先知水晶</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[使用后可以获得2000经验。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1401984000</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170477</ID>
+    <Name>金刚葫芦糖</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[可以给宠物增加5000经验]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170478</ID>
+    <Name>七彩葫芦串</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[可以给宠物增加3000经验]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170479</ID>
+    <Name>黄金果</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[四周年纪念经验果，增加10000点宠物经验。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170480</ID>
+    <Name>七彩棒棒糖</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[精灵弹珠纪念糖果，增加1000经验，错过了就再也没有了！]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170481</ID>
+    <Name>1万经验果</Name>
+    <Price>1</Price>
+    <Desc><![CDATA[不可思议的果实，可增加1万经验。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170482</ID>
+    <Name>2万经验果</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[不可思议的果实，可增加2万经验。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170483</ID>
+    <Name>5万经验果</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[不可思议的果实，可增加5万经验。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170484</ID>
+    <Name>10万经验果</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[不可思议的果实，可增加10万经验。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170485</ID>
+    <Name>20万经验果</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[不可思议的果实，可增加20万经验。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170486</ID>
+    <Name>5周年经验蛋糕</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[5周年定制经验蛋糕，增加55555经验]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170487</ID>
+    <Name>魔方糖果</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[魔方工作室群出品的神奇糖果，可以为宠物增加50万经验。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170488</ID>
+    <Name>6周年经验果</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[6周年特别纪念经验果，可增加66666经验。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17170489</ID>
+    <Name>2019中秋月饼</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[王国19年限定月饼，趁热吃哦！]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17235969</ID>
+    <Name>比例10经验药水</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[比例10经验药水]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1711641600</ExpireTime>
+ </Item>
+<Item>
+    <ID>17235970</ID>
+    <Name>比例20经验药水</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[比例20经验药水]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1711641600</ExpireTime>
+ </Item>
+<Item>
+    <ID>17235972</ID>
+    <Name>小成长果实</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[初级效果的成长果实，宠物等级越高，获得经验越多。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17235973</ID>
+    <Name>奇妙果</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[中等效果的成长果实，宠物等级越高，获得经验越多。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17235974</ID>
+    <Name>魔力果</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[较强效果的成长果实，宠物等级越高，获得经验越多。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17235975</ID>
+    <Name>怪蛋酱汁</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[较强效果的成长果实，宠物等级越高，获得经验越多。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1711641600</ExpireTime>
+ </Item>
+<Item>
+    <ID>17301506</ID>
+    <Name>test</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[test1]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1291824000</ExpireTime>
+ </Item>
+<Item>
+    <ID>17301507</ID>
+    <Name>国王球</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[传说中亚瑟国王的御用球。只要宠物HP减少，即必定能被捕捉！]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17367042</ID>
+    <Name>bb</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[aa]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1293292800</ExpireTime>
+ </Item>
+<Item>
+    <ID>17367043</ID>
+    <Name>果儿糖(作废）</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[重新获得宠物的全部天赋值。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1300291200</ExpireTime>
+ </Item>
+<Item>
+    <ID>17367044</ID>
+    <Name>开心豆</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[重新获得宠物的全部天赋值，效果比果儿糖要好。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17367045</ID>
+    <Name>果儿糖</Name>
+    <Price>1500</Price>
+    <Desc><![CDATA[重新获得宠物的全部天赋值]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17367046</ID>
+    <Name>黄金果儿糖</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[四周年纪念果儿糖，可以重置宠物的天赋。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17367047</ID>
+    <Name>蜂王蜜</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[可重置宠物的天赋，其中5项增多或不变，只有1项减少。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432578</ID>
+    <Name>火烧眉毛</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会火烧眉毛技能<br>限用宠物（30级-包含进化）<br>火花、火苗龙、麋鹿<br>技能描述<br>给对手造成伤害，自身几回合内免疫睡眠]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432579</ID>
+    <Name>川流不息</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会川流不息技能<br>限用宠物（30级-包含进化）<br>海闪星，艾莉儿，水蓝蓝<br>技能描述<br>给对手造成伤害，自身几回合内免疫冰冻]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432580</ID>
+    <Name>枪打出头鸟</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会枪打出头鸟技能<br>限用宠物（50级）<br>音速犬，还愿蛇仙<br>技能描述<br>对HP上限很高的宠物有很强的伤害]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432581</ID>
+    <Name>悬梁刺股</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会悬梁刺股技能<br>限用宠物（30级-包含进化）<br>格斗小五，熊猫秀才<br>技能描述<br>给对手造成一定伤害，自身几回合内免疫睡眠]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432582</ID>
+    <Name>龟兔赛跑</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会龟兔赛跑技能<br>限用宠物（30级-包含进化）<br>板板壳，圈圈海龟<br>技能描述<br>对兔子有非常强大的伤害]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432583</ID>
+    <Name>冰天雪地</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会冰天雪地技能<br>限用宠物（30级）<br>所有冰属性宠物<br>技能描述<br>几回合内双方均受到伤害，对冰系无效。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432584</ID>
+    <Name>圣龙恐吓</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会圣龙恐吓技能<br>限用宠物（30级）<br>所有龙属性宠物<br>技能描述<br>对手受到伤害或是自身恢复HP。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432585</ID>
+    <Name>巨魔之眼</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会巨魔之眼技能<br>限用宠物（30级）<br>所有恶魔属性宠物<br>技能描述<br>与对方交换魔攻等级或是HP]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432586</ID>
+    <Name>被四整除</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会被四整除技能<br>限用宠物（30级）<br>所有宠物<br>技能描述<br>受到的伤害值可以被四整除，则HP恢复满。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432587</ID>
+    <Name>大禹治水</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会大禹治水技能<br>限用宠物（30级）<br>所有宠物<br>技能描述<br>使对方在几回合内持续伤血，只对水属性宠物有效。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432588</ID>
+    <Name>狂龙吞噬</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会狂龙吞噬技能<br>限用宠物（30级）<br>阿布<br>技能描述<br>将对方的麻醉和烧伤状态，转化为伤害。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432589</ID>
+    <Name>快意恩仇</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会快意恩仇技能<br>限用宠物（50级）<br>所有宠物<br>技能描述<br>给对手造成强力伤害。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432590</ID>
+    <Name>口吐冰莲</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会口吐冰莲技能<br>限用宠物（30级）<br>阿布、超能阿布、圣龙阿布、格兰球<br>技能描述<br>一定概率让对手进入冰冻状态。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432591</ID>
+    <Name>画龙点睛</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会画龙点睛技能<br>限用宠物（30级）<br>阿布<br>技能描述<br>一定概率提高自身所有能力。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432592</ID>
+    <Name>石破天惊</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会石破天惊技能<br>限用宠物（30级）<br>玛雅<br>技能描述<br>防御等级相差越大，伤害越高。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432593</ID>
+    <Name>米亚之怒</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会米亚之怒技能<br>限用宠物（30级）<br>米亚<br>技能描述<br>自身等级越高伤害越高。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432594</ID>
+    <Name>豆丁打击</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会豆丁打击技能<br>限用宠物（20级）<br>木豆丁<br>技能描述<br>给对手造成固定伤害。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432595</ID>
+    <Name>命运筛子</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会命运筛子技能<br>限用宠物（30级）<br>普通属性宠物<br>技能描述<br>5回合内随机对一方造成伤害。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432596</ID>
+    <Name>绿色缠绕</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会绿色缠绕技能<br>限用宠物（30级）<br>木豆丁<br>技能描述<br>让对手进入睡眠或者中毒状态。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432597</ID>
+    <Name>生机勃勃</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会生机勃勃技能<br>限用宠物（40级）<br>木豆丁<br>技能描述<br>给对手造成一定伤害，并恢复少量HP。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432598</ID>
+    <Name>龙颜强化</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会龙颜强化技能<br>限用宠物（35级）<br>冰龙勇士<br>技能描述<br>一定概率提升自身的魔攻等级。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432599</ID>
+    <Name>嗜血寒冰</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会嗜血寒冰技能<br>限用宠物（50级）<br>狂战冰龙<br>技能描述<br>损失自身HP让对方进入冰冻状态。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432600</ID>
+    <Name>灭天冰霜</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会灭天冰霜技能<br>限用宠物（65级）<br>冰龙王<br>技能描述<br>对于冰冻的宠物，魔抗等级越低伤害越高。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432601</ID>
+    <Name>混沌之初</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会混沌之初技能<br>限用宠物（80级）<br>多灵主<br>技能描述<br>对方处于混乱状态，则降低对方魔抗等级。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432602</ID>
+    <Name>暗夜之光</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会暗夜之光技能<br>限用宠物（85级）<br>多灵主<br>技能描述<br>一定概率恢复大量HP。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432603</ID>
+    <Name>功率放大</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会功率放大技能<br>限用宠物（80级）<br>先锋君主<br>技能描述<br>将本回合受到的伤害放大后反射给对手]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432604</ID>
+    <Name>鲜血祭献</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会鲜血祭献技能<br>限用宠物（80级）<br>先锋君主<br>技能描述<br>牺牲自身的HP来大幅度提升攻击和魔攻等级]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432605</ID>
+    <Name>死亡来临</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会死亡来临技能<br>限用宠物（30级）<br>萌哥、萌之勇者、萌之王者、格兰球<br>技能描述<br>3回合后对方宠物死亡，换宠物则失效]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432606</ID>
+    <Name>混乱审判</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会混乱审判技能<br>限用宠物（50级）<br>萌之勇者、萌之王者、格兰球<br>技能描述<br>造成一定伤害，对方处于混乱状态则提升自身攻击等]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432607</ID>
+    <Name>死亡陷阱</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会死亡陷阱技能<br>限用宠物（70级）<br>萌之王者<br>技能描述<br>魔攻等级越低伤害越高]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432608</ID>
+    <Name>烈焰烤鸭</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会烈焰烤鸭技能<br>限用宠物（30级）<br>迪莫<br>技能描述<br>对鸭吉吉会造成额外的伤害]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432609</ID>
+    <Name>升龙咆哮</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会升龙咆哮技能<br>限用宠物（60级）<br>赤炎飞龙、格兰球、麋鹿<br>技能描述<br>提升自身魔攻等级2级]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432610</ID>
+    <Name>火龙舞</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会火龙舞技能<br>限用宠物（60级）<br>赤炎飞龙<br>技能描述<br>一定概率让对手进入烧伤状态]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432611</ID>
+    <Name>暴力龙息</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会暴力龙息技能<br>限用宠物（60级）<br>赤炎飞龙<br>技能描述<br>将伤害40%用来恢复自身的HP]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432612</ID>
+    <Name>狂龙之怒</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会狂龙之怒技能<br>限用宠物（60级）<br>赤炎飞龙<br>技能描述<br>一定几率使自身所有能力等级提升1级]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432613</ID>
+    <Name>金刚飞比</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会金刚飞比技能<br>限用宠物（30级）<br>飞比、暴角龙<br>技能描述<br>提升自身攻击等级]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432614</ID>
+    <Name>豆牛传奇</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会豆牛传奇技能<br>限用宠物（32级）<br>豆豆牛<br>技能描述<br>给对手造成一定伤害]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432615</ID>
+    <Name>妖狐之魅</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会妖狐之魅技能<br>限用宠物（40级）<br>美妖狐、美妖萌萌狐、格兰球<br>技能描述<br>让对方进入麻醉状态]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432616</ID>
+    <Name>白色迷雾</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会白之雾技能<br>限用宠物（80级）<br>神圣玄武<br>技能描述<br>双方能力等级变化都恢复正常]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432617</ID>
+    <Name>神龙怒吼</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会神龙怒吼技能<br>限用宠物（40级）<br>神圣青龙<br>技能描述<br>给对手造成伤害，并让对手进入麻醉状态。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432618</ID>
+    <Name>嗜血灵蔓</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会嗜血灵蔓技能<br>限用宠物（65级）<br>灵蔓草王<br>技能描述<br>形成一个吸血效果，持续3回合。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432619</ID>
+    <Name>灵蔓盾击</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会灵蔓盾击技能<br>限用宠物（65级）<br>灵蔓草王<br>技能描述<br>灵蔓护盾的PP值越少，造成的伤害越高。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432620</ID>
+    <Name>灵蔓治愈</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会灵蔓治愈技能<br>限用宠物（65级）<br>灵蔓草王<br>技能描述<br>每回合恢复自身HP上限40%的HP，持续4回合。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432621</ID>
+    <Name>圣藤之伤</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会圣藤之伤技能<br>限用宠物（65级）<br>圣藤草王<br>技能描述<br>对方处于睡眠状态，则提升自身攻击和魔攻等级。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432622</ID>
+    <Name>圣藤之灭</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会圣藤之灭技能<br>限用宠物（65级）<br>圣藤草王<br>技能描述<br>对方处于睡眠状态，则有吸血效果。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432623</ID>
+    <Name>圣藤预言</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会圣藤预言技能<br>限用宠物（65级）<br>圣藤草王<br>技能描述<br>对方处于睡眠，则下一个上场的宠物进入睡眠。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432624</ID>
+    <Name>探云压迫</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会探云压迫技能<br>限用宠物（65级）<br>圣羽翼王<br>技能描述<br>如处于飞天状态则使对方麻醉。如处于穿云状态则提高暴击几率。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432625</ID>
+    <Name>破碎星辰</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会破碎星辰技能<br>限用宠物（65级）<br>圣羽翼王<br>技能描述<br>如处于飞天状态则使对方中毒。如处于穿云状态则提高物理防御2级。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432626</ID>
+    <Name>风卷残云</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会风卷残云技能<br>限用宠物（65级）<br>圣羽翼王<br>技能描述<br>给对手造成一定伤害，提升自身魔法攻击1级，并一定概率麻醉对手。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432627</ID>
+    <Name>幽冥守护</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会幽冥守护技能<br>限用宠物（65级）<br>冥暗幽王<br>技能描述<br>如果本轮先手，必定提升魔抗2级。如果本轮后手，恢复150点生命值。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432628</ID>
+    <Name>鬼雾消散</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会鬼雾消散技能<br>限用宠物（65级）<br>冥暗幽王<br>技能描述<br>高命中技能。消除对手增益效果，命中时令对手所有技能使用次数减少。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432629</ID>
+    <Name>冥暗圣铠</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会冥暗圣铠技能<br>限用宠物（65级）<br>冥暗幽王<br>技能描述<br>3回合不会出现异常状态，3回合内受到敌方攻击时，必定使对方麻醉。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432630</ID>
+    <Name>火魔神力</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会火魔神力技能<br>限用宠物（65级）<br>火魔<br>技能描述<br>随机让对手进入麻醉，烧伤状态，或是降低速度等级。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432631</ID>
+    <Name>焚天之焰</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会焚天之焰技能<br>限用宠物（65级）<br>火魔<br>技能描述<br>必中。如果对方处于烧伤状态中，则降低对方魔抗1级。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432632</ID>
+    <Name>怒焰之殇</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会怒焰之殇技能<br>限用宠物（65级）<br>火魔<br>技能描述<br>3回合内每回合持续造成100点固定伤害，并且有高概率使对手麻醉。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432633</ID>
+    <Name>狂暴熔岩</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会狂暴熔岩技能<br>限用宠物（65级）<br>火魔<br>技能描述<br>对手持续2~5回合不准交换宠物，每回合受到1/8最大HP的伤害。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432634</ID>
+    <Name>电光咆哮</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会电光咆哮技能<br>限用宠物（60级）<br>奥德诺<br>技能描述<br>让对方麻醉。对方每受麻醉作用，自身攻击提升2级。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432635</ID>
+    <Name>极电之力</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会极电之力技能<br>限用宠物（60级）<br>奥德诺<br>技能描述<br>对处于麻醉的敌方造成伤害的时，回复伤害的60%的血量。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432636</ID>
+    <Name>极电护甲</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会极电护甲技能<br>限用宠物（60级）<br>奥德诺<br>技能描述<br>5回合内HP不低于最高血量的50%，不受不良状态影响。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432637</ID>
+    <Name>洗礼</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会洗礼技能<br>限用宠物（50级）<br>海盈水王<br>技能描述<br>驱散敌方的增益状态，并籍此治疗自身。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432638</ID>
+    <Name>祈愿</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会祈愿技能<br>限用宠物（50级）<br>海盈水王<br>技能描述<br>立即恢复自身部分精力，场下受伤队友也会恢复少许。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432639</ID>
+    <Name>伊利亚</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会伊利亚技能<br>限用宠物（50级）<br>海盈水王<br>技能描述<br>被精灵王们用于封印火魔的咒文，对火魔和其他火系宠物有极大约束力。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432640</ID>
+    <Name>御剑术</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会御剑术技能<br>限用宠物（1级）<br>妖神<br>技能描述<br>召唤剑雨，连续三回合发动攻击。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432641</ID>
+    <Name>神妙剑</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会神妙剑技能<br>限用宠物（1级）<br>妖神<br>技能描述<br>高命中技能，有概率降低对方的魔抗。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432642</ID>
+    <Name>斩龙诀</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会斩龙决技能<br>限用宠物（1级）<br>妖神<br>技能描述<br>对龙属性的敌人追加额外的伤害和压制效果。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432643</ID>
+    <Name>W001天变</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会W001天变技能<br>限用宠物（50级）<br>雪莉实验机<br>技能描述<br>暂时改变天气，并强化或削弱双方。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432644</ID>
+    <Name>雷切</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会雷切技能<br>限用宠物（50级）<br>圣电雷王<br>技能描述<br>终极技能，根据对方当前血量追加伤害。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432645</ID>
+    <Name>电磁新星</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会电磁新星技能<br>限用宠物（50级）<br>圣电雷王<br>技能描述<br>强力魔法攻击，雷暴中会波及场下敌人。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432646</ID>
+    <Name>电磁风暴</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会电磁风暴技能<br>限用宠物（50级）<br>圣电雷王<br>技能描述<br>召唤电磁风暴，持续造成伤害。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432647</ID>
+    <Name>超人射线</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会超人射线技能<br>限用宠物（50级）<br>超人鸭吉吉<br>技能描述<br>清除对方强化等级与PP值。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432648</ID>
+    <Name>汲魂者</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会汲魂者技能<br>限用宠物（50级）<br>神魔鬼<br>技能描述<br>汲取对方魂魄的痛击。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432649</ID>
+    <Name>天魔解体</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会天魔解体技能<br>限用宠物（50级）<br>神魔鬼、冰域之心<br>技能描述<br>舍身的强力一击。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432650</ID>
+    <Name>魔高一丈</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会魔高一丈技能<br>限用宠物（50级）<br>神魔鬼<br>技能描述<br>偷取对方强化的技能。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432651</ID>
+    <Name>极寒冰棺</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会极寒冰棺技能<br>限用宠物（50级）<br>暗影冰龙王<br>技能描述<br>概率斩杀或冻结敌人。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432652</ID>
+    <Name>嗜血乱舞</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会嗜血乱舞技能<br>限用宠物（50级）<br>暗影冰龙王<br>技能描述<br>强力的多段攻击]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432653</ID>
+    <Name>凛冬降临</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会凛冬降临技能<br>限用宠物（50级）<br>暗影冰龙王<br>技能描述<br>偷取对方PP值再发动强袭。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432654</ID>
+    <Name>极度深寒</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会极度深寒技能<br>限用宠物（30级）<br>冰系宠物<br>技能描述<br>极大概率冻结对手。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432655</ID>
+    <Name>船锚风暴</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会船锚风暴技能<br>限用宠物（30级）<br>冰域之心<br>技能描述<br>连续三回合造成伤害。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432656</ID>
+    <Name>擒拿</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会擒拿技能<br>限用宠物（30级）<br>冰域之心<br>技能描述<br>先手压制几率反伤。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432657</ID>
+    <Name>无刀取</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会无刀取技能<br>限用宠物（30级）<br>冰域之心<br>技能描述<br>反制对方后手攻击。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432658</ID>
+    <Name>星耀秘能</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会星耀秘能技能<br>限用宠物（36级）<br>瑟夏<br>技能描述<br>净化防控回血提升双防。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432659</ID>
+    <Name>秘法洪流</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会秘法洪流技能<br>限用宠物（42级）<br>瑟夏<br>技能描述<br>提升魔攻削减敌方技能PP值。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432660</ID>
+    <Name>圣元复苏</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会圣元复苏技能<br>限用宠物（100级）<br>北圣兽元紫<br>技能描述<br>处于异常状态或受到保护时会提供额外回复。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432661</ID>
+    <Name>火羽烈焰</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会火羽烈焰技能<br>限用宠物（100级）<br>南圣兽雀羽<br>技能描述<br>削弱敌方魔抗并造成伤害，在暴晒天气下效果拔群。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432662</ID>
+    <Name>混天沌地</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会混天沌地技能<br>限用宠物（80级）<br>土王姐妹三四阶<br>技能描述<br>召唤沃土环境5回合，召唤失败则根据使用者追加特殊效果。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432663</ID>
+    <Name>地动山摇</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会地动山摇技能<br>限用宠物（80级）<br>土王姐妹三四阶<br>技能描述<br>恐惧对方并根据使用者追加效果，对方免疫恐惧则提升自身能力。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432664</ID>
+    <Name>测试技能1</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会测试1技能<br>限用宠物（1级）<br>任意宠物<br>技能描述<br>空]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432665</ID>
+    <Name>测试技能2</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会测试2技能<br>限用宠物（1级）<br>任意宠物<br>技能描述<br>空]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432666</ID>
+    <Name>测试技能3</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会测试3技能<br>限用宠物（1级）<br>任意宠物<br>技能描述<br>空]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432667</ID>
+    <Name>测试技能4</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会测试4技能<br>限用宠物（1级）<br>任意宠物<br>技能描述<br>空]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432668</ID>
+    <Name>测试技能5</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会测试5技能<br>限用宠物（1级）<br>任意宠物<br>技能描述<br>空]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432669</ID>
+    <Name>测试技能6</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会测试6技能<br>限用宠物（1级）<br>任意宠物<br>技能描述<br>空]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432670</ID>
+    <Name>测试技能7</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会测试7技能<br>限用宠物（1级）<br>任意宠物<br>技能描述<br>空]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17432671</ID>
+    <Name>登神化羽</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会登神化羽技能<br>限用宠物（1级）<br>任意宠物<br>技能描述<br>空]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17498114</ID>
+    <Name>升级果</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[可以让宠物直接升级的果实。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17498115</ID>
+    <Name>花缘果</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[花缘七巧活动定制道具，宠物吃了可以直接升一级]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17498116</ID>
+    <Name>冰莲白巧</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[小芙蕖的回礼，宠物吃了可以升一级]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17498117</ID>
+    <Name>彼岸花</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[于彼岸所生之花，可让宠物直接升一级]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17563650</ID>
+    <Name>魔攻努力值道具</Name>
+    <Price>0</Price>
+    <Desc/>
+    <Unique>0</Unique>
+    <ExpireTime>1640448000</ExpireTime>
+ </Item>
+<Item>
+    <ID>17563651</ID>
+    <Name>物防之果</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[增加宠物物防努力值。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17563652</ID>
+    <Name>物攻之果</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[增加宠物物攻努力值。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17563653</ID>
+    <Name>精力之果</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[增加宠物精力努力值。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17563654</ID>
+    <Name>魔防之果</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[增加宠物魔防努力值。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17563655</ID>
+    <Name>魔攻之果</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[增加宠物魔攻努力值。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17563656</ID>
+    <Name>速度之果</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[增加宠物速度努力值。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+<Item>
+    <ID>17629186</ID>
+    <Name>努力值重置</Name>
+    <Price>0</Price>
+    <Desc/>
+    <Unique>0</Unique>
+    <ExpireTime>1640448000</ExpireTime>
+ </Item>
+<Item>
+    <ID>17629187</ID>
+    <Name>遗忘果实</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[将已加努力值清零并存于宠物剩余努力值中。若已加努力值大于50将消耗10%。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
