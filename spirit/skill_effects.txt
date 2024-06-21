@@ -1,0 +1,13 @@
+<PropertyDes id="1" name="睡眠"/>
+<PropertyDes id="2" name="麻醉"/>
+<PropertyDes id="3" name="烧伤"/>
+<PropertyDes id="4" name="冰冻"/>
+<PropertyDes id="5" name="中毒"/>
+<PropertyDes id="6" name="剧毒"/>
+<PropertyDes id="7" name="混乱"/>
+<PropertyDes id="8" name="恐惧"/>
+<PropertyDes id="9" name="寄生"/>
+<PropertyDes id="10" name="诅咒"/>
+<PropertyDes id="11" name="迷惑"/>
+<PropertyDes id="12" name="恶梦"/>
+<PropertyDes id="13" name="束缚"/>

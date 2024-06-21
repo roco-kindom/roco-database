@@ -1,0 +1,13 @@
+<SpiritSkillDes description="睡眠：至多4回合内无法行动，受到非光系宠物威力攻击时立即解除。" description2="睡着了。" id="10001" name="睡眠" property="1" src="2035.swf"/>
+<SpiritSkillDes description="麻醉：速度降低1级；每回合概率无法行动。" description2="被麻醉了。" id="10002" name="麻醉" property="2" src="2027.swf"/>
+<SpiritSkillDes description="烧伤：物攻降低2级；每回合损失八分之一最大精力，受到水系或神水系宠物威力伤害时立即解除。" description2="被烧伤了。" id="10003" name="烧伤" property="3" src="2031.swf"/>
+<SpiritSkillDes description="冰冻：无法行动，每回合概率自动解除，受到火系宠物威力伤害时立即解除。" description2="被冰冻了。" id="10004" name="冰冻" property="4" src="2015.swf"/>
+<SpiritSkillDes description="中毒：每回合损失八分之一最大精力。" description2="中毒了。" id="10005" name="中毒" property="5" src="2017.swf"/>
+<SpiritSkillDes description="剧毒：每回合每层毒素损失十六分之一最大精力，每回合获得1层剧毒素（换下后重置层数）。" description2="中了剧毒。" id="10006" name="剧毒" property="6" src="2023.swf"/>
+<SpiritSkillDes description="混乱：至多4回合内概率攻击自身，每回合概率自动解除。" description2="混乱了。" id="10007" name="混乱" property="7" src="2021.swf"/>
+<SpiritSkillDes description="恐惧：至多4回合内无法行动，每回合概率自动解除。" description2="恐惧了。" id="10008" name="恐惧" property="8" src="2025.swf"/>
+<SpiritSkillDes description="寄生：每回合损失八分之一最大精力并回复给对手。" description2="被寄生了。" id="10009" name="寄生" property="9" src="2037.swf"/>
+<SpiritSkillDes description="诅咒：每回合损失四分之一最大精力，施加者立即损失八分之一最大精力。" description2="被诅咒了。" id="10010" name="诅咒" property="10" src="2039.swf"/>
+<SpiritSkillDes description="迷惑：每回合概率无法行动。" description2="迷惑了。" id="10011" name="迷惑" property="11" src="2029.swf"/>
+<SpiritSkillDes description="噩梦：令睡眠和沉睡对手每回合损失四分之一最大精力。" description2="陷入了噩梦。" id="10012" name="噩梦" property="12" src="2019.swf"/>
+<SpiritSkillDes description="束缚：技能出招速度降低一半。" description2="被束缚了。" id="10013" name="束缚" property="13" src="2033.swf"/>
