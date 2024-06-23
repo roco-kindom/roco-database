@@ -1,32 +1,32 @@
-  <groupTypeDes id="1" name="植物组"/>
-  <groupTypeDes id="2" name="动物组"/>
-  <groupTypeDes id="3" name="昆虫组"/>
-  <groupTypeDes id="4" name="不死组"/>
-  <groupTypeDes id="5" name="元素组"/>
-  <groupTypeDes id="6" name="死亡组"/>
-  <groupTypeDes id="7" name="非生命组"/>
-  <groupTypeDes id="8" name="科技组"/>
-  <groupTypeDes id="9" name="劳动组"/>
-  <groupTypeDes id="10" name="守护组"/>
-  <groupTypeDes id="11" name="爬行组"/>
-  <groupTypeDes id="12" name="天空组"/>
-  <groupTypeDes id="13" name="大地组"/>
-  <groupTypeDes id="14" name="水生组"/>
-  <groupTypeDes id="15" name="力量组"/>
-  <groupTypeDes id="16" name="拟人组"/>
-  <groupTypeDes id="17" name="微型组"/>
-  <groupTypeDes id="18" name="巨型组"/>
-  <groupTypeDes id="19" name="彩虹组"/>
-  <groupTypeDes id="20" name="变异组"/>
-  <groupTypeDes id="21" name="乖乖组"/>
-  <groupTypeDes id="22" name="拼装组"/>
-  <groupTypeDes id="23" name="软体组"/>
-  <groupTypeDes id="24" name="黑暗组"/>
-  <groupTypeDes id="25" name="美型组"/>
-  <groupTypeDes id="26" name="仙灵组"/>
-  <groupTypeDes id="27" name="魔音组"/>
-  <groupTypeDes id="28" name="妖精组"/>
-  <groupTypeDes id="29" name="精灵组"/>
-  <groupTypeDes id="30" name="无性别组"/>
-  <groupTypeDes id="31" name="百变组"/>
-  <groupTypeDes id="32" name="组别未知"/>
+<groupTypeDes id="1" name="植物组"/>
+<groupTypeDes id="2" name="动物组"/>
+<groupTypeDes id="3" name="昆虫组"/>
+<groupTypeDes id="4" name="不死组"/>
+<groupTypeDes id="5" name="元素组"/>
+<groupTypeDes id="6" name="死亡组"/>
+<groupTypeDes id="7" name="非生命组"/>
+<groupTypeDes id="8" name="科技组"/>
+<groupTypeDes id="9" name="劳动组"/>
+<groupTypeDes id="10" name="守护组"/>
+<groupTypeDes id="11" name="爬行组"/>
+<groupTypeDes id="12" name="天空组"/>
+<groupTypeDes id="13" name="大地组"/>
+<groupTypeDes id="14" name="水生组"/>
+<groupTypeDes id="15" name="力量组"/>
+<groupTypeDes id="16" name="拟人组"/>
+<groupTypeDes id="17" name="微型组"/>
+<groupTypeDes id="18" name="巨型组"/>
+<groupTypeDes id="19" name="彩虹组"/>
+<groupTypeDes id="20" name="变异组"/>
+<groupTypeDes id="21" name="乖乖组"/>
+<groupTypeDes id="22" name="拼装组"/>
+<groupTypeDes id="23" name="软体组"/>
+<groupTypeDes id="24" name="黑暗组"/>
+<groupTypeDes id="25" name="美型组"/>
+<groupTypeDes id="26" name="仙灵组"/>
+<groupTypeDes id="27" name="魔音组"/>
+<groupTypeDes id="28" name="妖精组"/>
+<groupTypeDes id="29" name="精灵组"/>
+<groupTypeDes id="30" name="无性别组"/>
+<groupTypeDes id="31" name="百变组"/>
+<groupTypeDes id="32" name="组别未知"/>
